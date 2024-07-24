@@ -15,21 +15,22 @@ Developers: Integrate into custom tools or scripts for automated extraction of J
 
 **Install Dependencies**
 
-    Install the required Python packages using `pip`:
+ Install the required Python packages using `pip`:
 
-    ```bash
     pip install -r requirements.txt
-    ```
 
- **Run the Script**
+To install `js-crawler`, move the script to a directory in your PATH. You can do this by running the following command:
 
-    You can now use `js-crawler` by running the script:
 
-    ```bash
-    python3 js-crawler.py --help
-    ```
+    sudo mv js-crawler.py /usr/local/bin/js-crawler
 
-    This will display the available command-line options and usage instructions.
+**Run the Script**
+
+ You can now use `js-crawler` by running the script:
+
+     js-crawler.py --help
+
+This will display the available command-line options and usage instructions.
 
 ## Usage
 
