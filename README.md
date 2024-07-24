@@ -1,5 +1,4 @@
-#                                                                        js-crawler
-                                                 
+<h2 align="center">js-crawler</h2>                                             
 js-crawler is a versatile tool designed for extracting JavaScript sources from URLs and web pages. It provides both a command-line interface (CLI) for straightforward URL processing and a package interface for custom integrations, making it an essential tool for pentesters, bug bounty hunters, and developers who need to extract JavaScript sources efficiently.
 
 Features
@@ -74,3 +73,5 @@ Developers: Integrate into custom tools or scripts for automated extraction of J
 Contributions are welcome! Please submit issues or pull requests to help improve the tool. For major changes, open an issue first to discuss potential updates.
 
 ## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
