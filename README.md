@@ -1,5 +1,5 @@
-# js-crawler
-                                                                     js-crawler
+#                                                                        js-crawler
+                                                 
 js-crawler is a versatile tool designed for extracting JavaScript sources from URLs and web pages. It provides both a command-line interface (CLI) for straightforward URL processing and a package interface for custom integrations, making it an essential tool for pentesters, bug bounty hunters, and developers who need to extract JavaScript sources efficiently.
 
 Features
