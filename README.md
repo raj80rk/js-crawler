@@ -18,7 +18,11 @@ Developers: Integrate into custom tools or scripts for automated extraction of J
  Install the required Python packages using `pip`:
 
     pip install -r requirements.txt
-
+    
+  Ensure the script has execute permissions:
+     
+    chmod +x js-crawler.py
+ 
 To install `js-crawler`, move the script to a directory in your PATH. You can do this by running the following command:
 
 
