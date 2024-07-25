@@ -7,9 +7,10 @@ import urllib.parse
 import argparse
 import threading
 import time
+import pyfiglet
 import sys
 import termcolor
-import pyfiglet
+
 
 visited_urls = set()
 lock = threading.Lock()
