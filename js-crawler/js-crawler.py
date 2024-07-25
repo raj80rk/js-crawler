@@ -1,5 +1,5 @@
-
 #!/usr/bin/env python3
+
 import requests
 from bs4 import BeautifulSoup
 import os
@@ -8,8 +8,8 @@ import argparse
 import threading
 import time
 import sys
-import pyfiglet
 import termcolor
+import pyfiglet
 
 visited_urls = set()
 lock = threading.Lock()
@@ -133,4 +133,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
